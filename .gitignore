@@ -3,3 +3,6 @@
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# test data
+census-income-test.csv
