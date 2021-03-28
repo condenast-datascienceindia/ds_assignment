@@ -5,4 +5,4 @@
 .ipynb_checkpoints
 
 # test data
-census-income-test.csv
+./census-income-test.csv
